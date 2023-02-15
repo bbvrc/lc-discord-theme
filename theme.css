@@ -1,0 +1,44 @@
+/**
+* @name void
+* @version Auto Update
+* @description made by void
+* @author void
+* @invite ZHthyCw
+* @Source https://github.com/DiscordStyles/FrostedGlass
+* @website https://betterdiscord.app/theme/Frosted%20Glass
+*/
+@import url("https://discordstyles.github.io/FrostedGlass/dist/FrostedGlass.css");
+@import url('https://fonts.googleapis.com/css2?family=Franklin+Gothic');
+@import url('https://codedotspectra.github.io/themes/core/custom-font.css');
+@import url('https://fonts.googleapis.com/css2?family=Franklin+Gothic');
+:root {
+--background-image: url('https://i.imgur.com/nyix0nN.gif');
+--background-image-blur: 4px;
+--background-image-size: cover;
+--background-image-position: center;
+--popout-modal-image: url('https://i.imgur.com/1jHv7di.jpg');
+--popout-modal-blur: 2px;
+--popout-modal-size: cover;
+--popout-modal-position: center;
+--home-button-image: url('https://i.imgur.com/EIkWFvn.gif');
+--home-button-size: cover;
+--home-button-position: center;
+--serverlist-brightness: 0.55;
+--left-brightness: 0.65;
+--middle-brightness: 0.65;
+--right-brightness: 0;
+--popout-modal-brightness: 0.15;
+--gradient-primary: 142,4,4;
+--gradient-secondary: 142,4,4;
+--gradient-direction: 320deg;
+--tint-colour: 142,4,4;
+--tint-brightness: 0;
+--window-padding: 100px;
+--window-roundness: 30px;
+--scrollbar-colour: #8E0404FF;
+--link-colour: #8900BCFF;
+--show-gift-gif-buttons: block;
+--font: 'Franklin Gothic';
+--update-notice-1: none;
+--customFont: 'Franklin Gothic';
+}
